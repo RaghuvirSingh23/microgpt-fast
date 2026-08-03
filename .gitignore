@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+
+# Downloaded data and generated model artifacts
+input.txt
+*.pt
+
+.DS_Store
